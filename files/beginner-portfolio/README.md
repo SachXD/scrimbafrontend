@@ -1,1 +1,1 @@
-<p><a href="https://friendly-bombolone-1e7835.netlify.app/"><b>HERE</b></a> IS THE DEPLOYMENT</p>
+<p><a href="https://incandescent-malabi-26004d.netlify.app/"><b>HERE</b></a> IS THE DEPLOYMENT</p>
