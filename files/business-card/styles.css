@@ -5,3 +5,10 @@ body {
 .img {
     width: 150px;
 }
+
+.card {
+    border: 1px dotted blue;
+    background-color: #ddebf8;
+    padding: 20px;
+    display: flex;
+}
